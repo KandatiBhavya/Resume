@@ -1,0 +1,22 @@
+{
+  "career":{
+         "info":"to become an Interior Designer"
+   },
+   "education":[
+     {
+       "degree":"SSC",
+       "school":"KRCS",
+       "data":["2013","90%"]
+     },
+     {
+       "degree":"INTERMEDIATE",
+       "school":"MURLRAOS JUNIOR COLLEGE",
+       "data":["2015","80%"]
+     },
+     {
+       "degree":"GRADUATION",
+       "school":"SVEC",
+       "data":["2019","70%"]
+     }
+   ]
+}
