@@ -18,5 +18,27 @@
        "school":"SVEC",
        "data":["2019","70%"]
      }
+   ],
+   "skills":[
+          {
+            "name":"operating system",
+            "info":["windows","linux","Fedora","ubuntu","redhat"]
+            },
+            {
+              "name":"Languages",
+              "info":["c","c++","java","python"]
+              },
+              {
+                "name":"Databases",
+                "info":["Oracle","MySql","mongDB","cybase"]
+                },
+                {
+                  "name":"Web Technologies",
+                  "info":["Html","CSS","javascript"]
+                },
+                {
+                  "name":"Frame works",
+                  "info":["Bootstrap",".net"]
+                }
    ]
 }
